@@ -687,7 +687,9 @@ font-size: 6rem;
 }
 
 .slider_overlay{
-	background:rgba(0, 0, 0, .6);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(99, 88, 123, 1), rgba(75, 0, 130, 1));
+
+
 	width:100%;
 	top:0;
 	left:0;
